@@ -1,0 +1,100 @@
+.box1 {
+    width: 60%;
+    padding:12px;
+    margin:10px;
+    background-color: #a9ce;
+}
+
+.box2 {
+    width:60%;
+    padding:10px;
+    margin:10px;
+    background-color:#e3d7bf;
+    letter-spacing:14px; 
+}
+
+.box3 {
+    width:60%;
+    padding: 10px;
+    margin:10px;
+    background-color: #7CC2DB;
+}
+
+.box4 {
+    width:60%;
+    padding: 10px;
+    margin:10px;
+    background-color:#5643 ;
+}
+
+.box5 {
+    width:60%;
+    padding: 10px;
+    margin:10px;
+    background-color:#fdf9c4;
+}
+
+.box6 {
+    width:60%;
+    padding:10px;
+    margin:10px;
+    background-color: #c5c6c8;
+}
+
+.box7 {
+    width:60%;
+    padding:10px;
+    margin:10px;
+    background-color: #8fb7bd;
+}
+
+.box8 {
+    width:60%;
+    padding:10px;
+    margin:10px;
+    background-color: #6db8fa;
+}
+
+.box9 {
+    width:60%;
+    padding:10px;
+    margin:10px;
+    background-color: #FAF8ED;
+}
+
+.box10 {
+    width:60%;
+    padding:10px;
+    margin:10px;
+    background-color: #A2D9CE;
+}
+
+.a1 {
+    float:right;
+    padding:30px;
+    margin:20px;
+}
+
+.a2 {
+    float:right;
+    padding:5px;
+    margin:0px;
+}
+
+.a3 {
+    float:right;
+    padding:10px;
+    margin:50px;
+}
+
+.a4 {
+    float:right;
+    padding:30px;
+    margin:20px;
+}
+
+.a5 {
+    float:right;
+    padding:30px;
+    margin:20px;
+}
